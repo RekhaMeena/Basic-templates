@@ -1,0 +1,31 @@
+.ART{
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+td{
+  height: 200px;
+  width: 100px;
+  border: 5px solid white;
+}
+#one{
+  background: #264653;
+}
+
+#two{
+  background: #2a9d8f;
+}
+#three{
+  background: #e9c46a;
+}
+
+#four{
+  background:#f4a261;
+}
+#five{
+  background: #e76f51;
+}
